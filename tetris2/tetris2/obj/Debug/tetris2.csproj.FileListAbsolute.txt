@@ -1,0 +1,13 @@
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\bin\Debug\tetris2.exe.config
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\MainWindow.baml
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\MainWindow.g.cs
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\App.g.cs
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2_MarkupCompile.cache
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.g.resources
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.Properties.Resources.resources
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.csproj.GenerateResource.Cache
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\bin\Debug\tetris2.exe
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\bin\Debug\tetris2.pdb
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.exe
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.pdb
+C:\Users\Malik\Documents\Visual Studio 2013\Projects\tetris2\tetris2\obj\Debug\tetris2.csprojResolveAssemblyReference.cache
